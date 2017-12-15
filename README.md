@@ -27,5 +27,9 @@ A fully functional e-commerce website.
 
 <img width="1280" alt="register" src="https://user-images.githubusercontent.com/14169071/34053303-45a19092-e194-11e7-8c45-3c64e088ca67.png">
 
+## About - Page
+
+<img width="1280" alt="about" src="https://user-images.githubusercontent.com/14169071/34053335-6648c1e4-e194-11e7-88a9-22314ac48868.png">
+
 
 
