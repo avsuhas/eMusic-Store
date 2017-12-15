@@ -23,3 +23,9 @@ A fully functional e-commerce website.
 
 <img width="1280" alt="login" src="https://user-images.githubusercontent.com/14169071/34053264-1cec1618-e194-11e7-9a2d-f0e4ed8989b9.png">
 
+## New Customer Registration Page
+
+<img width="1280" alt="register" src="https://user-images.githubusercontent.com/14169071/34053303-45a19092-e194-11e7-8c45-3c64e088ca67.png">
+
+
+
