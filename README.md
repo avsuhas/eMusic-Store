@@ -15,6 +15,10 @@ A fully functional e-commerce website.
 
 ![entity](https://user-images.githubusercontent.com/14169071/34072501-79fab40a-e256-11e7-93eb-bfa3b53d95a2.png)
 
+## Spring Security Flow
+
+<img width="511" alt="security" src="https://user-images.githubusercontent.com/14169071/34072511-a85cb924-e256-11e7-9719-2f29a5acbe60.png">
+
 ## Some Screen shots of the Running project
 
 <img width="1280" alt="screen shot 2017-12-15 at 12 11 47 pm" src="https://user-images.githubusercontent.com/14169071/34053045-0dac2130-e193-11e7-813e-903423a94b3e.png">
