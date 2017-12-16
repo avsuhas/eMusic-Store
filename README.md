@@ -11,6 +11,10 @@ A fully functional e-commerce website.
 
 ![business workflow](https://user-images.githubusercontent.com/14169071/34072479-30daf974-e256-11e7-9696-760dbd6de9bf.png)
 
+## Entity Relationship Diagram 
+
+![entity](https://user-images.githubusercontent.com/14169071/34072501-79fab40a-e256-11e7-93eb-bfa3b53d95a2.png)
+
 ## Some Screen shots of the Running project
 
 <img width="1280" alt="screen shot 2017-12-15 at 12 11 47 pm" src="https://user-images.githubusercontent.com/14169071/34053045-0dac2130-e193-11e7-813e-903423a94b3e.png">
