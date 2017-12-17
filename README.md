@@ -19,6 +19,9 @@ A fully functional e-commerce website.
 
 <img width="511" alt="security" src="https://user-images.githubusercontent.com/14169071/34072511-a85cb924-e256-11e7-9719-2f29a5acbe60.png">
 
+## Shopping cart - Spring Web Flow
+![shoppingcart](https://user-images.githubusercontent.com/14169071/34082150-fee29810-e326-11e7-88e8-1d1ae1bc58e0.png)
+
 ## Some Screen shots of the Running project
 
 <img width="1280" alt="screen shot 2017-12-15 at 12 11 47 pm" src="https://user-images.githubusercontent.com/14169071/34053045-0dac2130-e193-11e7-813e-903423a94b3e.png">
