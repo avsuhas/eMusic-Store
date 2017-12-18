@@ -16,6 +16,7 @@ A fully functional e-commerce website.
 ![entity](https://user-images.githubusercontent.com/14169071/34072501-79fab40a-e256-11e7-93eb-bfa3b53d95a2.png)
 
 ## Spring Security Flow
+- This Applciation is secured from CSRF - Cross Site Request Forgery by using spring security.
 
 <img width="511" alt="security" src="https://user-images.githubusercontent.com/14169071/34072511-a85cb924-e256-11e7-9719-2f29a5acbe60.png">
 
